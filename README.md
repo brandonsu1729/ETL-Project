@@ -15,7 +15,7 @@ The Kaggle dataset did not need much transformation aside from cleaning. There w
 
 The NGDC data set was larger and more sophisticated with additional incremental chronology data (columns split by Year, Month, Day, Hour and Second), tsunami status, residential damages, and loss of life related to each event.  The incremental chronology data, for example, was merged in a simple date column, to correspond with the Kaggle data set. The ultimate goal was to have multiple columns that were parallel with Kaggle data set for joining.
 
-##### Moving Data into PgAdmin4 Database
+##### Loading Data into PgAdmin4 Database
 We chose PGAdmin4 due to general preference and usability of the tool. Much of the transformation revolved around creating parallel column headers so the larger data set could be joined with the smaller one in different increments, as needed.  The visual interface of PGAdmin4 makes it easier to work with and to visualize the data we imported into the database.
 
 
