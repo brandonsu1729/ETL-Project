@@ -3,7 +3,8 @@
 
 ##### Sources of Data 
 1.	Kaggle: Significant Earthquake data [NEIC]. https://www.kaggle.com/usgs/earthquake-database/data
-2.	National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA. doi:10.7289/V5TD9V7K
+2.	National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA. 	
+	https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1
 
 ##### Purpose
 We chose these datasets because of a general interest in the trends and frequency of significant earthquakes. We both live in Southern California and are interested in the decades-long threat from seismologists that “The Big One” is coming.  By using data sets from unique sources, we can compare and contrast the accuracy and consistent of collected seismological data.
